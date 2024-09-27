@@ -1,0 +1,1 @@
+from projeto_rpg import projeto_rpg
